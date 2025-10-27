@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /public/
+
+Sitemap: https://gutza.github.io/sitemap.xml
